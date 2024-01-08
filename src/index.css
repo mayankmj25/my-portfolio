@@ -115,3 +115,29 @@ i:hover {
   font-weight: 700;
 }
 
+.timeline {
+  color: #62605d;
+  font-size: 0.5rem;
+}
+
+.title {
+  font-size: 100px;
+  display: flex;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  word-wrap: break-word;
+  align-items: center;
+  height: 100%;
+  padding: 63px;
+  font-weight: 700;
+}
+
+.about .right {
+  color: #fefefe;
+  width: 50%;
+  background-color: #212125;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
