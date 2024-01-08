@@ -26,3 +26,92 @@
 .appbar {
   background-color: #212125 !important;
 }
+
+.home {
+  height: 100vh;
+  display: flex;
+  color: white;
+  width: 100%;
+}
+
+.home .left {
+  background-color: #212125;
+  flex: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.left img {
+  height: 450px;
+  border: 3px solid white;
+  border-radius: 50%;
+  zoom: 120%;
+}
+
+.home .right {
+  flex: 50%;
+  background-color: #fefefe;
+  color: #212125;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container h1 {
+  font-size: 60px !important;
+}
+
+.container span {
+  font-size: 25px;
+  color: #a2a2a2;
+}
+
+.about-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  line-height: 2rem;
+}
+
+.roles {
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 50px;
+  /* width: 100%; */
+}
+
+.roles i {
+  margin: 15px;
+  cursor: pointer;
+  display: block;
+}
+i:hover {
+  color: #62605d;
+}
+
+.about {
+  height: 100vh;
+  display: flex;
+  color: white;
+  width: 100%;
+}
+.about .left {
+  background-color: #fefefe;
+  width: 50%;
+  color: #212125;
+  /* font-size: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 63px; */
+  font-weight: 700;
+}
+
