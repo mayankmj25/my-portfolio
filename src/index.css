@@ -141,3 +141,41 @@ i:hover {
   align-items: center;
 }
 
+.projects {
+  height: 100vh;
+  display: flex;
+  color: white;
+  width: 100%;
+}
+
+.projects .left {
+  background-color: #212125;
+  width: 50%;
+  color: #fefefe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-title {
+  font-size: 100px;
+  padding: 63px;
+  font-weight: 700;
+}
+
+.projects .right {
+  width: 50%;
+  background-color: #fefefe;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+  overflow-y: hidden;
+}
+
+.project-container {
+  border: 1px solid;
+  width: 280px;
+  height: 350px;
+}

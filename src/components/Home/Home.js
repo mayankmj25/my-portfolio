@@ -10,11 +10,12 @@ const Home = () => {
         </div>
       </div>
       <div className="right">
-        <div className="container"></div>
+        <div className='container'>
         <h1>
           Mayank  Jaiswal
         </h1>
         <span>Frontend Developer</span>
+        </div>
         <div className="about-text">
         Mayank Jaiswal is a Software Developer with experience in Tekion Corp and Synaptic. He has worked on React, React Native, Typescript and Javascript specifically. In his free time, he loves to watch football.
       </div>
