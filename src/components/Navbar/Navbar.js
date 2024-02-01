@@ -28,7 +28,7 @@ const Navbar = () => {
             <IconButton
             size='large'
             aria-label='menu'
-            aria-controls='menu-apppbar' //wtf is this
+            aria-controls='menu-apppbar'
             aria-haspopup = 'true'
             onClick={handleOpenNavMenu}
             color='inherit'

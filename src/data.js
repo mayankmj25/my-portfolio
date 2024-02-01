@@ -5,14 +5,14 @@ export const ProjectWork = [
         id: 1,
         img : CrytoClock,
         name : 'Crypto-Clock',
-        link: 'https://github.com/mayankmj25/crypto-clock',
+        link: 'https://crypto-clock.netlify.app/',
         code: 'https://github.com/mayankmj25/crypto-clock'
     },
     {
         id: 2,
         img : CrytoClock,
         name : 'Chat-Byte',
-        link: 'https://github.com/mayankmj25/chat-byte',
+        link: 'https://chatapp-re26.onrender.com/chats',
         code: 'https://github.com/mayankmj25/chat-byte'
     },
     {

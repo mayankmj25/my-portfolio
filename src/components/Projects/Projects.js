@@ -12,7 +12,7 @@ const Projects = () => {
   return (
     <div className='projects' id='projects'>
       <div className='left'>
-        <h2 className='project-title'>MY PROJECTS</h2>
+        <h2 className='project-title'>PROJECTS</h2>
       </div>
       <div className='right'>
         {
