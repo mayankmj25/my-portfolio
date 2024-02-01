@@ -1,4 +1,6 @@
 import CrytoClock from './assets/Screenshot (1).png'
+import ChatByte from './assets/Screenshot (23).png'
+
 
 export const ProjectWork = [
     {
@@ -10,7 +12,7 @@ export const ProjectWork = [
     },
     {
         id: 2,
-        img : CrytoClock,
+        img : ChatByte,
         name : 'Chat-Byte',
         link: 'https://chatapp-re26.onrender.com/chats',
         code: 'https://github.com/mayankmj25/chat-byte'
