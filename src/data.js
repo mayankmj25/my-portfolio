@@ -1,5 +1,6 @@
 import CrytoClock from './assets/Screenshot (1).png'
 import ChatByte from './assets/Screenshot (23).png'
+import EcommerceApp from './assets/app-image.jpeg'
 
 
 export const ProjectWork = [
@@ -19,7 +20,7 @@ export const ProjectWork = [
     },
     {
         id: 3,
-        img : CrytoClock,
+        img : EcommerceApp,
         name : 'Amazon-Clone',
         link: 'https://github.com/mayankmj25/ecommerce-app',
         code: 'https://github.com/mayankmj25/ecommerce-app'
